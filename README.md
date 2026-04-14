@@ -1,6 +1,4 @@
-# 👋 Hello!
-
-## 💻 Algorithm and Programming (LAB) — COMP6047001
+# 💻 Algorithm and Programming (LAB) — COMP6047001
 
 Welcome to my lab exercise repository for Algorithm and Programming! 🚀
 
